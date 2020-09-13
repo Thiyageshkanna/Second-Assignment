@@ -1,0 +1,13 @@
+.navbar {
+  background-color: #5133a5;
+}
+.jumbotron {
+  background-color: #9477cb;
+  color: white;
+}
+.footer {
+  background-color: #d1c5e8;
+}
+.form-check {
+  display: inline !important;
+}
